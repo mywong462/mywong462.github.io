@@ -1,35 +1,24 @@
-## Portfolio
+# Game Portfolio
+<br>
+
+[Untitled self project](/self.md)
+<br>
+<img src="images/self/Self1.jpg?raw=true"/>
 
 ---
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Pause](/gameProg.md)
+<br>
+<img src="images/gameProg/gameProg0.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Petriversity](/fyp.md)
+<br>
+<img src="images/fyp/fyp5.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Chetalyst](chem.md)
+<br>
+<img src="images/chem/chem1.png?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
