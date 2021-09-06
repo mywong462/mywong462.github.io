@@ -1,6 +1,3 @@
-<<<<<<< HEAD
--## Developer Portfolio Landing Page Template
-=======
 ## Developer Portfolio Landing Page Template
 >>>>>>> parent of e3f9476 (Update)
 
