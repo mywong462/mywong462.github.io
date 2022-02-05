@@ -3,7 +3,7 @@
 
 [Untitled self project](/self.md)
 <br>
-<img src="images/self/Self1.jpg?raw=true"/>
+<img src="images/self/Woo6.jpg?raw=true"/>
 
 ---
 [Pause](/gameProg.md)
